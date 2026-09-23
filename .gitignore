@@ -1,0 +1,8 @@
+# Local / unrelated
+durian_edit/
+resolve-backups/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
