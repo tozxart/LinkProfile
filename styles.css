@@ -311,6 +311,7 @@ a {
 .link:nth-child(3) { animation: rise 0.7s 0.2s cubic-bezier(0.22, 1, 0.36, 1) both; }
 .link:nth-child(4) { animation: rise 0.7s 0.28s cubic-bezier(0.22, 1, 0.36, 1) both; }
 .link:nth-child(5) { animation: rise 0.7s 0.36s cubic-bezier(0.22, 1, 0.36, 1) both; }
+.link:nth-child(6) { animation: rise 0.7s 0.44s cubic-bezier(0.22, 1, 0.36, 1) both; }
 
 /* ---------- Footer ---------- */
 
